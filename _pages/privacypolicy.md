@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy "
-permalink: /privacypolicy/
+permalink: /page/privacypolicy/
 #header: Privacy Policy
 
 ---

@@ -5,8 +5,8 @@ main:
   - title: "About"
     url: /about/
   - title: "Privacy Policy"
-    url: /privacypolicy/
+    url: /page/privacypolicy/
   - title: "Terms of Service"
-     url: /termsofservice/
+     url: /page/termsofservice/
   # - title: "Sitemap"
   #   url: /sitemap/

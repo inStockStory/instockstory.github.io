@@ -1,6 +1,6 @@
 ---
 title: "Terms of Service "
-permalink: /termsofservice/
+permalink: /page/termsofservice/
 #header: Terms of Service
 ---
 
