@@ -1,7 +1,7 @@
 ---
 title: "Terms of Service "
-date: 2021-06-30
-tags: [notice]
+permalink: /termsofservice/
+#header: Terms of Service
 ---
 
 By downloading the Application from the Apple AppStore, and any update thereto (as permitted by this License Agreement), You indicate that You agree to be bound by all of the terms and conditions of this License Agreement, and that You accept this License Agreement. 
