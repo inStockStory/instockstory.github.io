@@ -1,5 +1,5 @@
 ---
-title: "Privacy Policy "
+title: "Privacy Policy"
 date: 2021-06-30
 tags: [notice]
 #header:
