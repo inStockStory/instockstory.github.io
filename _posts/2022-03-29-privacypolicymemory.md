@@ -1,5 +1,5 @@
 ---
-title: "Privacy Policy"
+title: "Privacy Policy - Memory"
 date: 2022-03-29
 tags: [notice]
 #header:

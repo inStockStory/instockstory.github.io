@@ -1,5 +1,5 @@
 ---
-title: "Terms and Conditions"
+title: "Terms and Conditions - Memory"
 date: 2022-03-29
 tags: [notice]
 ---
